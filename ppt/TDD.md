@@ -20,7 +20,7 @@ TDD means a cycle of Test --> Code --> Reafctor --> Test --> ...
 ![](img/TDDScheme.png)  
 Writing the tests BEFORE the code, give you a complete different point of view of the problem you here to solve.  
 You are creating SW in means of the USE of the class\function and not in the means of the IMPLEMENTATION.  
-The code become simpler and more concise as it defined by WHAT it does, and not HOW it do it.
+The code become simpler and more concise as it defined by WHAT it does, and not HOW it does it.
 A day to day example is a Microwave.  
 We all know how to use it, its have a very simple interface,   
 and most of us don't know and don't care HOW it work.  

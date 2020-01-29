@@ -4,4 +4,6 @@
 *.suo
 x64/
 .vs/
+Debug/
+Release/
 

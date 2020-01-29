@@ -1,3 +1,7 @@
 *.db
 *.opendb
 *.user
+*.suo
+x64/
+.vs/
+

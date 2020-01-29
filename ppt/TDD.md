@@ -1,4 +1,4 @@
-# TDD
+# TDD is NOT about tests (TFU)
 
 TDD stands for Test Driven Development, or Test Driven Development.  
 The first word people hear, and most of the time, the only word is TEST.  
@@ -14,7 +14,7 @@ So.
 
 My lecture was about 2 things. 
 
-## One: TDD is NOT about tests (TFU).    
+## One: TDD is NOT about tests (TFU)    
 TDD is about Development, and its about Design.  
 TDD means a cycle of Test --> Code --> Reafctor --> Test --> ...  
 ![](img/TDDScheme.png)  
